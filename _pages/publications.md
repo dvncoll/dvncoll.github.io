@@ -34,7 +34,7 @@ author_profile: true
 
 ### *In Progress*
 
-- _"Krippner Processes: How Finance Advances Under Austerity"_ 
+- _"Krippner Processes: How Finance Advances Under Austerity"_<br>
   Quinn, S., **Collins, D.** & Gómez-Baeza, F.  
   
 {% if site.author.googlescholar %}
