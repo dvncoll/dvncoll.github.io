@@ -21,18 +21,21 @@ author_profile: true
 
 ## Manuscripts in Progress
 
-- _A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and the Exercise of Symbolic Power_
+### R&R
+
+- _A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and the Exercise of Symbolic Power_<br>
   Güler, S. & **Collins, D.** (co-first author)  
   *Theory & Social Inquiry* 
-  (R&R)
+  
+### Under Review
 
 - _Institutional Conflict Displacement: Homelessness Policymaking in the Bureaucratic Field_  
   **Collins, D.**  
-  (In progress)
+
+### In Progress
 
 - _Krippner Processes: How Finance Advances Under Austerity_  
   Quinn, S., **Collins, D.** & Gómez-Baeza, F.  
-  (In progress)
   
 {% if site.author.googlescholar %}
 You can find a full list of my publications on my [Google Scholar profile]({{ site.author.googlescholar }}).
