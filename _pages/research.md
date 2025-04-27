@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research"
-permalink: /publications/
+title: "Research Agenda"
+permalink: /research/
 author_profile: true
 ---
 
