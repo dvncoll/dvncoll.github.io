@@ -23,19 +23,21 @@ author_profile: true
 
 ### *R&R*
 
+- _"Institutional Conflict Displacement: Homelessness Policymaking in the Bureaucratic Field"_  
+  **Collins, D.**
+  *American Journal of Sociology* 
+
 - _"A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and the Exercise of Symbolic Power"_<br>
   Güler, S. & **Collins, D.** (co-first author)  
   *Theory & Social Inquiry* 
-  
-### *Under Review*
-
-- _"Institutional Conflict Displacement: Homelessness Policymaking in the Bureaucratic Field"_  
-  **Collins, D.**  
 
 ### *In Progress*
 
 - _"Krippner Processes: How Finance Advances Under Austerity"_<br>
   Quinn, S., **Collins, D.** & Gómez-Baeza, F.  
+  
+- _"The Rise of Single-Person Households in Cities: Disentangling Drivers and Consequences for Affordability"_<br>
+  **Collins, D.** & Colburn, G.  
   
 {% if site.author.googlescholar %}
 You can find a full list of my publications on my [Google Scholar profile]({{ site.author.googlescholar }}).
