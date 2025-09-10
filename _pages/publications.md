@@ -24,7 +24,7 @@ author_profile: true
 ### *R&R*
 
 - _"Institutional Conflict Displacement: Homelessness Policymaking in the Bureaucratic Field"_  
-  **Collins, D.** _<br>
+  **Collins, D.** <br>
   *American Journal of Sociology* 
 
 - _"A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and the Exercise of Symbolic Power"_<br>
