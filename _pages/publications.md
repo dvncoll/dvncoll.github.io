@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications
 
-- _"Statements of Emergency: Homelessness and the Performance of State Responses in Seattle"_
+- _"Statements of Emergency: Homelessness and the Performance of State Responses in Seattle"_   
   Güler, S. & **Collins, D.** (co-first author)  
   *Theory and Social Inquiry*, forthcoming
 
