@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications
 
+- _"Statements of Emergency: Homelessness and the Performance of State Responses in Seattle"_
+  Güler, S. & **Collins, D.** (co-first author)  
+  *Theory and Social Inquiry*, 2026
+
 - [_"The Longue Durée of Finance: New Research on Old Financial Markets"_](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-105657)  
   Quinn, S., Gómez-Baeza, F. & **Collins, D.**  
   *Annual Review of Sociology*, 2025
@@ -23,20 +27,22 @@ author_profile: true
 
 ### *R&R*
 
-- _"Institutional Conflict Displacement: Homelessness Policymaking in the Bureaucratic Field"_  
+- _"Institutional Conflict Displacement: Making Homelessness Governable in the Superstar City"_  
   **Collins, D.** <br>
   *American Journal of Sociology* 
-
-- _"A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and the Exercise of Symbolic Power"_<br>
-  Güler, S. & **Collins, D.** (co-first author)  
-  *Theory & Social Inquiry* 
 
 ### *In Progress*
 
 - _"Krippner Processes: How Finance Advances Under Austerity"_<br>
   Quinn, S., **Collins, D.** & Gómez-Baeza, F.  
   
-- _"The Rise of Single-Person Households in Cities: Disentangling Drivers and Consequences for Affordability"_<br>
+- _"Urban Variation in Solo Renting: Spatial and Temporal Patterns in U.S. Cities"_<br>
+  **Collins, D.** & Colburn, G.  
+
+- _"Identifying Heterogeneous Vacancy-Rent Dynamics in U.S. Cities: A Group-Based Trajectory Modeling Approach"_<br>
+  **Collins, D.**, Colburn, G., and Godwin, J.
+
+- _"Public Harassment and Hostility Faced by Providers, Public Officials, and Researchers Involved in Homelessness-Related Work"_<br>
   **Collins, D.** & Colburn, G.  
   
 {% if site.author.googlescholar %}
