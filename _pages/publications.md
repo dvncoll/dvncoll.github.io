@@ -9,7 +9,7 @@ author_profile: true
 
 - _"Statements of Emergency: Homelessness and the Performance of State Responses in Seattle"_
   Güler, S. & **Collins, D.** (co-first author)  
-  *Theory and Social Inquiry*, 2026
+  *Theory and Social Inquiry*, forthcoming
 
 - [_"The Longue Durée of Finance: New Research on Old Financial Markets"_](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-105657)  
   Quinn, S., Gómez-Baeza, F. & **Collins, D.**  
