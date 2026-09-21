@@ -25,7 +25,7 @@ author_profile: true
 
 ## Manuscripts in Progress
 
-### *R&R*
+### *Accept-Contingent*
 
 - _"Institutional Conflict Displacement: Making Homelessness Governable in the Superstar City"_  
   **Collins, D.** <br>
